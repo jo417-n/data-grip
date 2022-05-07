@@ -1,0 +1,1 @@
+Adding new file into git from DataGrip
